@@ -1,0 +1,61 @@
+﻿@using EntityLayer.Concrete
+@model List<Announcement>
+
+<div class="blog" id="blog">
+    <div class="container">
+        <h3 class="tittle">Son Duyurular</h3>
+        <p class="heading-btm-w3ls">Çiftliklerimiz ve tarlalarımızdan son haberler aşağıdadır.</p>
+        @{
+            int counter = 0; // Sayaç başlangıcı
+        }
+
+        @foreach (var item in Model)
+        {
+            if (item.Status && counter < 3)
+            {
+                <div style="display:flex; align-items: center; justify-content:center;" class="blog-grid-w3-agileits">
+                    <div class="col-md-7 blog-img2-agileits-w3layouts" style="padding-right: 15px;">
+                        <img src="@item.Imageurl" alt=" " class="img-responsive">
+                    </div>
+                    <div class="col-md-5 blog-info-w3layouts blog-mid" style="text-align: left; padding-left: 15px;">
+                        <h6><a href="#" data-toggle="modal" data-target="#myModal3">@item.Title</a></h6>
+                        <div class="inner-info-mid">
+                            <span>@item.Date.ToString("dd/MM/yyyy")</span>
+                            <p class="para-w3-agileits">@item.MinDescription</p>
+                        </div>
+                        <a href="#" class="blog-more-agile" data-toggle="modal" data-target="#myModal3">Devamı..</a>
+                    </div>
+                </div>
+
+                <!-- Modal Penceresi -->
+                <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="modalLabel@item.AnnouncementId" aria-hidden="true">
+                    <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal">×</button>
+                                <h4>EkinTarım</h4>
+                                
+                            </div>
+                            <div class="modal-body">
+                               
+                                <img src="@item.Imageurl" alt=" " class="img-responsive">
+                                <h4 class="modal-title" id="myModal3">@item.Title</h4>
+                                <p>@item.Description</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br />
+
+               
+                counter++; // Sayacı artır
+            }
+        }
+    </div>
+</div>
+
+
+        

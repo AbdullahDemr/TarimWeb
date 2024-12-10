@@ -1,0 +1,33 @@
+﻿@model AgriculturePresentation.Models.ServiceAddViewModel
+
+@{
+    ViewData["Title"] = "AddService";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<form class="forms-sample" method="post" action="/Service/AddService">
+    <div class="form-group">
+        <label for="Title">Başlık</label>
+        <input type="text" class="form-control" id="Title" name="Title" placeholder="Başlık giriniz">
+    </div>
+    <div class="form-group">
+        <label for="Image">Resim URL</label>
+        <input type="text" class="form-control" id="Image" name="Image" placeholder="Resim URL'si giriniz">
+    </div>
+    <div class="form-group">
+        <label for="Description">Açıklama</label>
+        <textarea class="form-control" id="Description" name="Description" rows="4" placeholder="Açıklama giriniz"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="Class1">Class1</label>
+        <textarea class="form-control" id="Class1" name="Class1" rows="4" placeholder="Class1 giriniz"></textarea>
+    </div>
+    <div class="form-group">
+        <label for="Class2">Class2</label>
+        <textarea class="form-control" id="Class2" name="Class2" rows="4" placeholder="Class2 giriniz"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary me-2">Kaydet</button>
+</form>
+

@@ -1,0 +1,34 @@
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.deps.json
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\EntityLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\EntityLayer.pdb
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\refint\DataAccessLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\ref\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\EntityLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\bin\Release\net8.0\EntityLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\refint\DataAccessLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\DataAccessLayer\obj\Release\net8.0\ref\DataAccessLayer.dll

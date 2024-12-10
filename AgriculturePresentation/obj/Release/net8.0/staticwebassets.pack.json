@@ -1,0 +1,501 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\AgriculturePresentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AgriculturePresentation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\web\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\chocolat.css",
+      "PackagePath": "staticwebassets\\web\\css\\chocolat.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\common.css",
+      "PackagePath": "staticwebassets\\web\\css\\common.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\easy-responsive-tabs.css",
+      "PackagePath": "staticwebassets\\web\\css\\easy-responsive-tabs.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\web\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\css\\style.css",
+      "PackagePath": "staticwebassets\\web\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\web\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\web\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\arr.png",
+      "PackagePath": "staticwebassets\\web\\images\\arr.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\arrows.png",
+      "PackagePath": "staticwebassets\\web\\images\\arrows.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\c1.png",
+      "PackagePath": "staticwebassets\\web\\images\\c1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\c2.png",
+      "PackagePath": "staticwebassets\\web\\images\\c2.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\c3.png",
+      "PackagePath": "staticwebassets\\web\\images\\c3.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\close.png",
+      "PackagePath": "staticwebassets\\web\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\contact.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\contact.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g10.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g11.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g12.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g5.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g6.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g7.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g8.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\g9.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\g9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\left1.png",
+      "PackagePath": "staticwebassets\\web\\images\\left1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\right1.png",
+      "PackagePath": "staticwebassets\\web\\images\\right1.png"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\web\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\index.html",
+      "PackagePath": "staticwebassets\\web\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\bootstrap-3.1.1.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\bootstrap-3.1.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\easing.js",
+      "PackagePath": "staticwebassets\\web\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\easy-responsive-tabs.js",
+      "PackagePath": "staticwebassets\\web\\js\\easy-responsive-tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\jquery-2.1.4.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery-2.1.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\jquery.chocolat.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.chocolat.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\jquery.picEyes.js",
+      "PackagePath": "staticwebassets\\web\\js\\jquery.picEyes.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\main.js",
+      "PackagePath": "staticwebassets\\web\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\modernizr-2.6.2.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\modernizr-2.6.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\web\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\web\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\wwwroot\\web\\w3layouts-License.txt",
+      "PackagePath": "staticwebassets\\web\\w3layouts-License.txt"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.AgriculturePresentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.AgriculturePresentation.props",
+      "PackagePath": "build\\AgriculturePresentation.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AgriculturePresentation.props",
+      "PackagePath": "buildMultiTargeting\\AgriculturePresentation.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.AgriculturePresentation.props",
+      "PackagePath": "buildTransitive\\AgriculturePresentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

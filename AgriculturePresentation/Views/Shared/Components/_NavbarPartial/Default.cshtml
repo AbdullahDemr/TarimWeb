@@ -1,0 +1,103 @@
+﻿@using EntityLayer.Concrete
+@model List<TopAnnouncement>
+
+<div class="slider">
+    <div class="header-bottom">
+        <div class="container">
+            <nav class="navbar navbar-default">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <div class="logo">
+                        <h1><a class="navbar-brand" asp-area="" asp-controller="Login" asp-action="Index"><span>Ekim</span>Tarım</a></h1>
+                    </div>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+                    <nav class="cl-effect-1" id="cl-effect-1">
+                        <ul class="nav navbar-nav">
+                            <li><a href="#home" class="active" data-hover="Home">Ana Sayfa</a></li>
+                            <li><a href="#about" class="scroll" data-hover="About">Hakkımızda</a></li>
+                            <li><a href="#services" class="scroll" data-hover="Services">Hizmetlerimiz</a></li>
+                            <li><a href="#team" class="scroll" data-hover="Team">Takımımız</a></li>
+                            <li><a href="#gallery" class="scroll" data-hover="Projects">Galeri</a></li>
+                            <li><a href="#contact" class="scroll" data-hover="Contact">İletişim</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <!-- /.navbar-collapse -->
+            </nav>
+            <div class="w3ls_search">
+                <div class="cd-main-header">
+                    <ul class="cd-header-buttons">
+                        <li><a class="cd-search-trigger" href="#cd-search"> <span></span></a></li>
+                    </ul> <!-- cd-header-buttons -->
+                </div>
+                <div id="cd-search" class="cd-search">
+                    <form action="#" method="post">
+                        <input name="Search" type="search" placeholder="aranacak kelimeyi yazınız...">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="callbacks_container">
+        <ul class="rslides" id="slider3">
+            @{
+                var activeItems = Model.Where(item => item.Status).Take(4).ToList();
+                var ids = activeItems.Select(item => item.TopAnnouncementId).ToList();
+            }
+
+            @foreach (var item in activeItems)
+            {
+                <li>
+                    <div class="slider-info">
+                        <h3>@item.Title</h3>
+                        <p>@item.MinDescription</p>
+                        <div class="readmore-w3">
+                            <a class="readmore" href="#" data-toggle="modal" data-target="#@item.TopAnnouncementId">Devamı...</a>
+                        </div>
+                    </div>
+                </li>
+            }
+
+           
+
+
+        </ul>
+
+    </div>
+    <div class="clearfix"></div>
+</div>
+
+@foreach (var id in ids)
+{
+    var item = Model.FirstOrDefault(i => i.TopAnnouncementId == id);
+    if (item != null)
+    {
+        <div class="modal fade" id="@id" tabindex="-1" role="dialog" aria-labelledby="modalLabel@id" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">×</button>
+                        <h4>EkinTarım</h4>
+                    </div>
+                    <div class="modal-body">
+                        <img src="@item.Imageurl" alt=" " class="img-responsive">
+                        <h4 class="modal-title" id="@id">@item.Title</h4>
+                        <p>@item.Description</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Kapat</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+}

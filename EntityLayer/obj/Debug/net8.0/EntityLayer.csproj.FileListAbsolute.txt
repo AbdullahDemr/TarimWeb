@@ -1,0 +1,42 @@
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.runtimeconfig.json
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
+C:\Users\cehen\source\repos\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.runtimeconfig.json
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Abdul\Downloads\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.deps.json
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.runtimeconfig.json
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\bin\Debug\net8.0\EntityLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\refint\EntityLayer.dll
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.pdb
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\EntityLayer.genruntimeconfig.cache
+C:\Users\Abdul\OneDrive\Masaüstü\Masa üstü\Yeni klasör (2)\AgriculturePresentation\AgriculturePresentation\EntityLayer\obj\Debug\net8.0\ref\EntityLayer.dll
