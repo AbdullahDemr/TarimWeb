@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jg5SbKn4k7M=",
+  "dgSpecHash": "n/qXWESOCLc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdul\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Abdul\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

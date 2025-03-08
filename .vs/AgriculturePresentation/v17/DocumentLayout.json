@@ -1,33 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\",
+  "WorkspaceRootPath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{F654692B-AF3D-4EDB-962D-B8E36A8E0E8E}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F654692B-AF3D-4EDB-962D-B8E36A8E0E8E}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\abstract\\iaboutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\topannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\topannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\entitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C264C5-2178-4C9F-8B2B-9AAC605C82A6}|EntityLayer\\EntityLayer.csproj|solutionrelative:entitylayer\\concrete\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\agriculturepresentation\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|solutionrelative:agriculturepresentation\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\agriculturepresentation\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|solutionrelative:agriculturepresentation\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\agriculturepresentation\\agriculturepresentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|solutionrelative:agriculturepresentation\\agriculturepresentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation\\models\\topannouncementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\agriculturepresentation\\models\\topannouncementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|solutionrelative:agriculturepresentation\\models\\topannouncementmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation\\models\\serviceaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\agriculturepresentation\\models\\serviceaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|solutionrelative:agriculturepresentation\\models\\serviceaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation\\models\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\agriculturepresentation\\models\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|solutionrelative:agriculturepresentation\\models\\usereditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\masa\u00FCst\u00FC\\masa \u00FCst\u00FC\\yeni klas\u00F6r (2)\\agriculturepresentation\\agriculturepresentation\\agriculturepresentation\\views\\contact\\messagedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|c:\\users\\abdul\\onedrive\\belgeler\\github\\tarimweb\\agriculturepresentation\\views\\contact\\messagedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0949B673-A3C9-4B7B-A29F-4E806B456A21}|AgriculturePresentation\\AgriculturePresentation.csproj|solutionrelative:agriculturepresentation\\views\\contact\\messagedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -38,27 +78,145 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\RegisterViewModel.cs",
-              "RelativeDocumentMoniker": "AgriculturePresentation\\Models\\RegisterViewModel.cs",
-              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\RegisterViewModel.cs",
-              "RelativeToolTip": "AgriculturePresentation\\Models\\RegisterViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "DocumentIndex": 0,
+              "Title": "IAboutService.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Abstract\\IAboutService.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\BusinessLayer\\Abstract\\IAboutService.cs",
+              "RelativeToolTip": "BusinessLayer\\Abstract\\IAboutService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:48:44.1Z"
+              "WhenOpened": "2025-03-03T16:59:47.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopAnnouncement.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\TopAnnouncement.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\TopAnnouncement.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\TopAnnouncement.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\TopAnnouncement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:40.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Team.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Team.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Team.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:39.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Service.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Service.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Service.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:39.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Image.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Image.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Image.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:37.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Contact.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Contact.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Contact.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:36.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Announcement.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Announcement.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Announcement.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Announcement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:36.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Admin.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Admin.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Admin.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:35.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Address.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\Address.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\Address.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:34.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\About.cs",
+              "RelativeDocumentMoniker": "EntityLayer\\Concrete\\About.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\Concrete\\About.cs",
+              "RelativeToolTip": "EntityLayer\\Concrete\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:57:31.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ServiceAddViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\ServiceAddViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\ServiceAddViewModel.cs",
               "RelativeDocumentMoniker": "AgriculturePresentation\\Models\\ServiceAddViewModel.cs",
-              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\ServiceAddViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\ServiceAddViewModel.cs",
               "RelativeToolTip": "AgriculturePresentation\\Models\\ServiceAddViewModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAtwAoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,11 +224,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "UserEditViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\UserEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\UserEditViewModel.cs",
               "RelativeDocumentMoniker": "AgriculturePresentation\\Models\\UserEditViewModel.cs",
-              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\UserEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\UserEditViewModel.cs",
               "RelativeToolTip": "AgriculturePresentation\\Models\\UserEditViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,11 +236,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "TopAnnouncementModel.cs",
-              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\TopAnnouncementModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\TopAnnouncementModel.cs",
               "RelativeDocumentMoniker": "AgriculturePresentation\\Models\\TopAnnouncementModel.cs",
-              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Models\\TopAnnouncementModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\TopAnnouncementModel.cs",
               "RelativeToolTip": "AgriculturePresentation\\Models\\TopAnnouncementModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -90,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "AgriculturePresentation.csproj",
-              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation.csproj",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\AgriculturePresentation.csproj",
               "RelativeDocumentMoniker": "AgriculturePresentation\\AgriculturePresentation.csproj",
-              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation.csproj",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\AgriculturePresentation.csproj",
               "RelativeToolTip": "AgriculturePresentation\\AgriculturePresentation.csproj",
               "ViewState": "AQIAABsAAAAAAAAAAAAIwDwAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -102,11 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "MessageDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Views\\Contact\\MessageDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Views\\Contact\\MessageDetails.cshtml",
               "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Contact\\MessageDetails.cshtml",
-              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Views\\Contact\\MessageDetails.cshtml",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Views\\Contact\\MessageDetails.cshtml",
               "RelativeToolTip": "AgriculturePresentation\\Views\\Contact\\MessageDetails.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -114,16 +272,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "AgriculturePresentation\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Masa\u00FCst\u00FC\\Masa \u00FCst\u00FC\\Yeni klas\u00F6r (2)\\AgriculturePresentation\\AgriculturePresentation\\AgriculturePresentation\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "AgriculturePresentation\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-23T11:52:45.86Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "AgriculturePresentation\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\AgriculturePresentation\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "AgriculturePresentation\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:48:44.1Z"
             }
           ]
         }

@@ -4763,11 +4763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Abdul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4785,8 +4785,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\Abdul\\OneDrive\\Masaüstü\\Masa üstü\\Yeni klasör (2)\\AgriculturePresentation\\AgriculturePresentation\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Abdul\\OneDrive\\Belgeler\\GitHub\\TarimWeb\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -4855,7 +4855,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
